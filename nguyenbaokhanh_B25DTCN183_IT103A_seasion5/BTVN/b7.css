@@ -18,8 +18,11 @@
     color: red;
   }
 
-  .coso2,
-  coso3 {
+  .coso2 {
+    color: #555;
+  }
+  .coso3 {
     color: #555;
   }
 }
+
