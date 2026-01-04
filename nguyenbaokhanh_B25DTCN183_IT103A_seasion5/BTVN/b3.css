@@ -1,0 +1,24 @@
+.services {
+  background-color: #f4f4f9;
+  font-family: Arial, sans-serif;
+}
+
+.title1 {
+  text-align: center;
+  color: #1e90ff;
+}
+
+.title2 {
+  text-align: center;
+}
+
+.list {
+  padding-left: 0px;
+}
+
+.list .old {
+  text-decoration: line-through;
+}
+.letter {
+  letter-spacing: 2px;
+}

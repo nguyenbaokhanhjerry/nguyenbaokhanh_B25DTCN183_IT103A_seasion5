@@ -1,0 +1,21 @@
+.feedback {
+  text-align: center;
+}
+
+.feedback h2 {
+  color: #1e90ff;
+}
+
+.feedback input,
+.feedback textarea {
+  border: 1px solid #1e90ff;
+}
+
+.feedback textarea {
+  height: 100px;
+}
+
+.feedback button {
+  background-color: #00bfff;
+  color: white;
+}

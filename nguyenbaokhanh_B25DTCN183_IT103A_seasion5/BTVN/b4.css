@@ -1,0 +1,12 @@
+.info {
+  background-color: #f4f4f9;
+}
+
+.info h2 {
+  color: #1e90ff;
+  text-align: center;
+}
+
+.info p {
+  margin: 8px;
+}

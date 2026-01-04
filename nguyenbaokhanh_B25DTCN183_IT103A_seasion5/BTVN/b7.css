@@ -1,0 +1,25 @@
+* {
+  font-family: Arial, sans-serif;
+  text-align: center;
+
+  .background {
+    background-color: #f0f4ff;
+  }
+
+  .title1 {
+    color: #1e90ff;
+  }
+
+  .title2 {
+    color: #4a90e2;
+  }
+
+  .coso1 {
+    color: red;
+  }
+
+  .coso2,
+  coso3 {
+    color: #555;
+  }
+}
